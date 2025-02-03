@@ -1,5 +1,6 @@
 # Ignorar dependências e configurações locais
 backend/venv/
 backend/.env
+backend/alembic.ini
 frontend/node_modules/
 frontend/dist/
